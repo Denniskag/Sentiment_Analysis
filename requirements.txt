@@ -1,7 +1,7 @@
 streamlit
 pandas 
 requests
-BeautifulSoup
+bs4
 numpy 
 os
 nltk
