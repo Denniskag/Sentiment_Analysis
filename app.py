@@ -129,7 +129,7 @@ st.title('Sentiment Analysis')
 
 df["Sentiment"] = Store
 
-df
+#df
 select = st.text_input('Enter text')
 s=vs.polarity_scores(select)
 result = ''
