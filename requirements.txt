@@ -1,0 +1,9 @@
+streamlit
+pandas 
+requests
+BeautifulSoup
+numpy 
+os
+nltk
+contractions
+vaderSentiment
